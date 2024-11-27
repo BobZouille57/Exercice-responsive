@@ -65,3 +65,8 @@
 .article p {
     margin: 5px 0;
 }
+
+.footer {
+    text-align: center;
+    padding: 10px 0;
+}
